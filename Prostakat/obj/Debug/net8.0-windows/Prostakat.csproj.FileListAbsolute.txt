@@ -1,0 +1,16 @@
+C:\Users\Matura_1\source\repos\Prostakat\Prostakat\bin\Debug\net8.0-windows\Prostakat.exe
+C:\Users\Matura_1\source\repos\Prostakat\Prostakat\bin\Debug\net8.0-windows\Prostakat.deps.json
+C:\Users\Matura_1\source\repos\Prostakat\Prostakat\bin\Debug\net8.0-windows\Prostakat.runtimeconfig.json
+C:\Users\Matura_1\source\repos\Prostakat\Prostakat\bin\Debug\net8.0-windows\Prostakat.dll
+C:\Users\Matura_1\source\repos\Prostakat\Prostakat\bin\Debug\net8.0-windows\Prostakat.pdb
+C:\Users\Matura_1\source\repos\Prostakat\Prostakat\obj\Debug\net8.0-windows\Prostakat.Form1.resources
+C:\Users\Matura_1\source\repos\Prostakat\Prostakat\obj\Debug\net8.0-windows\Prostakat.csproj.GenerateResource.cache
+C:\Users\Matura_1\source\repos\Prostakat\Prostakat\obj\Debug\net8.0-windows\Prostakat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matura_1\source\repos\Prostakat\Prostakat\obj\Debug\net8.0-windows\Prostakat.AssemblyInfoInputs.cache
+C:\Users\Matura_1\source\repos\Prostakat\Prostakat\obj\Debug\net8.0-windows\Prostakat.AssemblyInfo.cs
+C:\Users\Matura_1\source\repos\Prostakat\Prostakat\obj\Debug\net8.0-windows\Prostakat.csproj.CoreCompileInputs.cache
+C:\Users\Matura_1\source\repos\Prostakat\Prostakat\obj\Debug\net8.0-windows\Prostakat.dll
+C:\Users\Matura_1\source\repos\Prostakat\Prostakat\obj\Debug\net8.0-windows\refint\Prostakat.dll
+C:\Users\Matura_1\source\repos\Prostakat\Prostakat\obj\Debug\net8.0-windows\Prostakat.pdb
+C:\Users\Matura_1\source\repos\Prostakat\Prostakat\obj\Debug\net8.0-windows\Prostakat.genruntimeconfig.cache
+C:\Users\Matura_1\source\repos\Prostakat\Prostakat\obj\Debug\net8.0-windows\ref\Prostakat.dll
